@@ -1,15 +1,21 @@
+## Hi,I'm a eletrical engenieer student 
+
 <div align = "center">
-<a href="https://github.com/JWchester">
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=JWchester&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JWchester&layout=compact&langs_count=7&theme=dark" />
 </div>
-  
- ##
-  
-<div style = "display: inline_block"> <br>
-<img align = "center" alt = "John-Js" height = "90" width = "100" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg>
-<img align = "center" alt = "John-Js" height = "70" width = "100" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg> 
 
-  
-  
+## Languages i have experience
+
+
+<div align = "left">
+<img style = "margin = 10px" alt = "Python" height = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style = "margin = 10px" alt = "C++" height = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
+<img style = "margin = 10px" alt = "Octave" height = "65" src = https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg />
+
 ##
+  
+<div align = "center"> 
+<a href="https://instagram.com/joao.paulo56" alt = "Instagram" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "target =" _ blank "> </a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-barbosa-a1384a1b1/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a>
+
