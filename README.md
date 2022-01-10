@@ -8,9 +8,9 @@
 ## My Languages
 
 <div align = "left">
-<img style = "margin = 10px" align = "center" alt = "Python" height = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style = "margin = 10px" align = "center" alt = "C++" height = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
-<img style = "margin = 10px" align = "center" alt = "Octave" height = "65" src = https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg />
+<img style = "margin = 10px" align = "center" alt = "Python" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style = "margin = 10px" align = "center" alt = "C++" height = "60" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
+<img style = "margin = 10px" align = "center" alt = "Octave" height = "55" src = https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg />
 
  ##
 
