@@ -15,7 +15,7 @@
 
  ##
 
-<div align = "left">
+<div align = "center">
 redes sociais 
 
 <div align = "center">
