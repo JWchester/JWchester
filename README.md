@@ -11,7 +11,11 @@
 <img style = "margin = 10px" align = "center" alt = "Python" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style = "margin = 10px" align = "center" alt = "C++" height = "60" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
 <img style = "margin = 10px" align = "center" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+ 
+<img style = "margin = 10px" align = "center" alt = "Jupyter" height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
+ 
 <img align = "right" height = "200" width = "200" alt = "Matrix" src = https://c.tenor.com/yasksYy1XekAAAAC/matrix-code.gif /></a>
+
 
  ##
 
