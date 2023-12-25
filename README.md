@@ -13,11 +13,18 @@
 <img style = "margin = 10px" align = "center" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
  
 <img style = "margin = 10px" align = "center" alt = "Jupyter" height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
- 
-<img align = "right" height = "200" width = "200" alt = "Matrix" src = https://c.tenor.com/yasksYy1XekAAAAC/matrix-code.gif /></a>
 
+</div>
 
  ##
+
+ ## My Tools
+ <div align = "left">
+ <img style = "margin = 10px" align = "center" alt = "GNS3" height = "60" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
+ <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "60" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
+ <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "60" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
+  
+ </div>
 
 <div align = "center">
 Social networks
