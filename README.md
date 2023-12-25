@@ -10,7 +10,7 @@
   
 </div>
 
-[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=20000&pause=1000&color=071DA5&multiline=true&repeat=false&random=false&width=2000&height=90&lines=%22N%C3%83O+CRIE+UM+INIMIGO+PARA+JUSTIFICAR+SUA+PR%C3%93PRIA+INCOMPET%C3%8ANCIA%22;+;-+AN%C3%94NIMO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=1000&color=A50000&multiline=true&repeat=false&random=false&width=2000&height=90&lines=-.+---+%2F+-.-.+.-.+..+.+%2F+..-+--+%2F+..+-.+..+--+..+--.+---+%2F+.--.+.-+.-.+.-+%2F+.---+..-+...+-+..+..-.+..+-.-.+.-+.-.+%2F+...+..-+.-+%2F+.--.+.-.+.--.+.-.+..+.-+%2F+..+-.+-.-.+---+--+.--.+.+-+-.+-.-.+..+.-;+)](https://git.io/typing-svg)
 
 
 ## My Languages
