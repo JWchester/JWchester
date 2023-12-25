@@ -6,11 +6,11 @@
 <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=JWchester&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=A50000&"/>
 
   <img height="200em" align="center" src="https://github.com/JWchester/Icons/blob/main/AnonymousR.png" />
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWchester&layout=compact&langs_count=7&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=A50000&" />
+  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWchester&layout=compact&langs_count=7&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=071DA5&" />
   
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=1000&color=071DA5&multiline=true&repeat=false&random=false&width=2000&height=90&lines=-.+---+%2F+-.-.+.-.+..+.+%2F+..-+--+%2F+..+-.+..+--+..+--.+---+%2F+.--.+.-+.-.+.-+%2F+.---+..-+...+-+..+..-.+..+-.-.+.-+.-.+%2F+...+..-+.-+%2F+.--.+.-.+.--.+.-.+..+.-+%2F+..+-.+-.-.+---+--+.--.+.+-+-.+-.-.+..+.-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=1000&color=A50000&multiline=true&repeat=false&random=false&width=2000&height=90&lines=-.+---+%2F+-.-.+.-.+..+.+%2F+..-+--+%2F+..+-.+..+--+..+--.+---+%2F+.--.+.-+.-.+.-+%2F+.---+..-+...+-+..+..-.+..+-.-.+.-+.-.+%2F+...+..-+.-+%2F+.--.+.-.+.--.+.-.+..+.-+%2F+..+-.+-.-.+---+--+.--.+.+-+-.+-.-.+..+.-)](https://git.io/typing-svg)
 
 
 ## My Languages
