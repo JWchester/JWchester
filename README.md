@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=2000&height=90&lines=-..+---+-.+-+%2F+-.-.+.-.+.+.-+-+.+%2F+.-+-.+%2F+.+-.+.+--+-.--+%2F+-+---+%2F+.---+..-+...+-+..+..-.+-.--+%2F+-.--+---+..-+.-.+%2F+---+.--+-.+%2F+..+-.+-.-.+---+--+.--.+.+-+.+-.+-.-.+.)](https://git.io/typing-svg)
 
-
+#
 ## My Languages
 
 <div align = "left">
@@ -27,9 +27,10 @@
  
 </div>
 
- ##
-
+ 
+ #
  ## My Tools
+ 
  <div align = "left">
  <img style = "margin = 20px" align = "center" alt = "GNS3" height = "60" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
  <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "60" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
@@ -37,8 +38,9 @@
  <img style = "margin = 10px" align = "center" alt = "Jupyter Notebooks" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img style = "margin = 10px" align = "center" alt = "Google Colab" height = "85" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  
-  
+#
  </div>
+ 
 
 <div align = "center">
 Social networks
