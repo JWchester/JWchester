@@ -28,7 +28,7 @@
 <img style = "margin = 10px" align = "left" alt = "Octave" height = "85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img style = "margin = 10px" align = "left" alt = "JavaScript" height = 92 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
 <img style = "margin = 10px" align = "left" alt = "HTML5" height = 92 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
-<img style = "margin = 10px" align = "left" alt = "CSS3" width="83" height="83" <img src="https://github.com/JWchester/Icons/blob/main/CSS3%20(1).png"/>
+<img style = "margin = 10px" align = "left" alt = "CSS3" width="80" height="80" <img src="https://github.com/JWchester/Icons/blob/main/CSS3%20(1).png"/>
 <img style = "margin-right = 100px" align = "left" alt = "CSS3" height = 80 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
 </div>
 <br>
