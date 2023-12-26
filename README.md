@@ -1,5 +1,5 @@
 
-<h1 align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=3000&height=90&lines=01001000+01000101+01001100+01001100+01001111+00100000+01010111+01001111+01010010+01001100+01000100+)](https://git.io/typing-svg)
 
@@ -15,11 +15,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=2000&height=90&lines=-..+---+-.+-+%2F+-.-.+.-.+.+.-+-+.+%2F+.-+-.+%2F+.+-.+.+--+-.--+%2F+-+---+%2F+.---+..-+...+-+..+..-.+-.--+%2F+-.--+---+..-+.-.+%2F+---+.--+-.+%2F+..+-.+-.-.+---+--+.--.+.+-+.+-.+-.-.+.)](https://git.io/typing-svg)
 </div>
-</h1>
 
 
 
-<h1 align="left"> My Languages
+##
+## My Languages
+<br>
 
 <div align = "left">
 <img style = "margin = 10px" align = "left" alt = "Python" height = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -33,13 +34,14 @@
 <br>
 <br>
 <br>
-</h1>
 
 
 
-<h1 align="left"> My Tools 
+##
+## My Tools
 
  
+
  <div align = "left">
  <img style = "margin = 20px" align = "left" alt = "GNS3" height = "90" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
  <img style = "margin = 10px" align = "left" alt = "Linux Ubuntu" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
@@ -51,11 +53,12 @@
  <br>
  <br>
  <br>
- </h1>
-
  
  
 
+ 
+ 
+##
 <div align = "center">
 
 <div align = "center">
