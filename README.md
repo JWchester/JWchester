@@ -33,17 +33,18 @@
 
  
  
- ## My Tools
+ <h1 align="center"> My Tools
  
- <div align = "left">
- <img style = "margin = 20px" align = "center" alt = "GNS3" height = "60" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
- <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "60" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
- <img style = "margin = 10px" align = "center" alt = "Kali Linux" height = "60" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
- <img style = "margin = 10px" align = "center" alt = "Jupyter Notebooks" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
- <img style = "margin = 10px" align = "center" alt = "Google Colab" height = "85" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
+ <div align = "center">
+ <img style = "margin = 20px" align = "center" alt = "GNS3" height = "80" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
+ <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
+ <img style = "margin = 10px" align = "center" alt = "Kali Linux" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
+ <img style = "margin = 10px" align = "center" alt = "Jupyter Notebooks" height = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+ <img style = "margin = 10px" align = "center" alt = "Google Colab" height = "105" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  
-#
+
  </div>
+ </h1>
  
 
 <div align = "center">
