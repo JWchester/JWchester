@@ -40,8 +40,8 @@
  <img style = "margin = 10px" align = "center" alt = "Linux Ubuntu" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
  <img style = "margin = 10px" align = "center" alt = "Kali Linux" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
  <img style = "margin = 10px" align = "center" alt = "Jupyter Notebooks" height = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
- <img style = "margin = 10px" align = "center" alt = "VS Code" height = "90" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
- <img style = "margin = 10px" align = "center" alt = "Google Colab" height = "105" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
+ <img style = "margin = 10px" align = "center" alt = "VS Code" height = "200" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
+ <img style = "margin = 10px" align = "center" alt = "Google Colab" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  
  
 
