@@ -1,5 +1,6 @@
 
-#
+<h1 align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=3000&height=90&lines=01001000+01000101+01001100+01001100+01001111+00100000+01010111+01001111+01010010+01001100+01000100+)](https://git.io/typing-svg)
 
 <div align="center">
@@ -12,23 +13,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=2000&height=90&lines=-..+---+-.+-+%2F+-.-.+.-.+.+.-+-+.+%2F+.-+-.+%2F+.+-.+.+--+-.--+%2F+-+---+%2F+.---+..-+...+-+..+..-.+-.--+%2F+-.--+---+..-+.-.+%2F+---+.--+-.+%2F+..+-.+-.-.+---+--+.--.+.+-+.+-.+-.-.+.)](https://git.io/typing-svg)
 
-#
-## My Languages
+</h1>
 
-<div align = "left">
-<img style = "margin = 10px" align = "center" alt = "Python" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style = "margin = 10px" align = "center" alt = "C++" height = "60" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
-<img style = "margin = 10px" align = "center" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img style = "margin = 10px" align = "center" alt = "JavaScript" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
-<img style = "margin = 10px" align = "center" alt = "HTML5" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
-<img style = "margin = 10px" align = "center" alt = "CSS3" height = 60 <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
-<img style = "margin-right = 100px" align = "center" alt = "CSS3" height = 60 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
+
+<h1 align="center"> My Languages
+
+<div align = "center">
+<img style = "margin = 10px" align = "center" alt = "Python" height = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style = "margin = 10px" align = "center" alt = "C++" height = "80" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
+<img style = "margin = 10px" align = "center" alt = "Octave" height = "85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img style = "margin = 10px" align = "center" alt = "JavaScript" height = 90 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
+<img style = "margin = 10px" align = "center" alt = "HTML5" height = 90 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
+<img style = "margin = 10px" align = "center" alt = "CSS3" height = 80 <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
+<img style = "margin-right = 100px" align = "center" alt = "CSS3" height = 80 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
 
  
 </div>
+</h1>
 
  
- #
+ 
  ## My Tools
  
  <div align = "left">
