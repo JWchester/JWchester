@@ -43,7 +43,7 @@
  
 
  <div align = "left">
- <img style = "margin = 20px" align = "left" alt = "GNS3" height = "90" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
+ <img style = "margin = 20px" align = "left" alt = "GNS3" height = "85" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
  <img style = "margin = 10px" align = "left" alt = "Linux Ubuntu" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
  <img style = "margin = 10px" align = "left" alt = "Kali Linux" height = "80" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
  <img style = "margin = 10px" align = "left" alt = "Jupyter Notebooks" height = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
