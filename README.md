@@ -28,7 +28,7 @@
 <img style = "margin = 10px" align = "left" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img style = "margin = 10px" align = "left" alt = "JavaScript" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
 <img style = "margin = 10px" align = "left" alt = "HTML5" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
-<img style = "margin = 10px" align = "left" alt = "CSS3" width="73" height="84" <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
+<img style = "margin = 10px" align = "left" alt = "CSS3" width="79" height="70" <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
 <img style = "margin-right = 100px" align = "left" alt = "Bash" height = 60 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
 <img style = "margin-right = 100px" align = "left" alt = "System Verilog" height = 75 <img src="https://github.com/JWchester/Icons/blob/main/System%20Verilog.png"/>
 </div>
@@ -50,7 +50,7 @@
  <img style = "margin = 10px" align = "left" alt = "Jupyter Notebooks" height = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img style = "margin = 10px" align = "left" alt = "VS Code" height = "85" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
  <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
- <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
+ <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
 
    
  </div>
