@@ -23,13 +23,13 @@
 
 
 <div align = "center">
-<img style = "margin = 10px" align = "left" alt = "Python" height = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style = "margin = 10px" align = "left" alt = "C++" height = "80" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
-<img style = "margin = 10px" align = "left" alt = "Octave" height = "85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img style = "margin = 10px" align = "left" alt = "JavaScript" height = 90 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
-<img style = "margin = 10px" align = "left" alt = "HTML5" height = 90 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
-<img style = "margin = 10px" align = "left" alt = "CSS3" width="93" height="84" <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
-<img style = "margin-right = 100px" align = "left" alt = "Bash" height = 80 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
+<img style = "margin = 10px" align = "left" alt = "Python" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style = "margin = 10px" align = "left" alt = "C++" height = "60" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
+<img style = "margin = 10px" align = "left" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img style = "margin = 10px" align = "left" alt = "JavaScript" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/JavScript.png"/>
+<img style = "margin = 10px" align = "left" alt = "HTML5" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
+<img style = "margin = 10px" align = "left" alt = "CSS3" width="73" height="84" <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
+<img style = "margin-right = 100px" align = "left" alt = "Bash" height = 60 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
 <img style = "margin-right = 100px" align = "left" alt = "System Verilog" height = 75 <img src="https://github.com/JWchester/Icons/blob/main/System%20Verilog.png"/>
 </div>
 <br>
