@@ -14,7 +14,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=falso&vCenter=falso&repeat=falso&random=falso&width=2000&lines=-..+---+-.+-+%2F+-.-.+.-.+.+.-+-+.+%2F+.-+-.+%2F+.+-.+.+--+-.--+%2F+-+---+%2F+.---+..-+...+-+..+..-.+-.--+%2F+-.--+---+..-+.-.+%2F+---+.--+-.+%2F+..+-.+-.-.+---+--+.--.+.+-+.+-.+-.-.+.)](https://git.io/typing-svg)
-
+</div>
 
 
 ##
@@ -22,7 +22,7 @@
 
 
 
-<div align = "center">
+<div align = "left">
 <img style = "margin = 10px" align = "left" alt = "Python" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style = "margin = 10px" align = "left" alt = "C++" height = "60" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg /> 
 <img style = "margin = 10px" align = "left" alt = "Octave" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
