@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=15000&pause=10000000&color=A50000&multiline=true&repeat=true&random=false&width=3000&height=90&lines=01001000+01000101+01001100+01001100+01001111+00100000+01010111+01001111+01010010+01001100+01000100+)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=JWchester&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=A50000&"/>
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api?username=JWchester&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=A50000&"/>
 
   <img height="200em" align="center" src="https://github.com/JWchester/Icons/blob/main/Anonymous.png" />
   
