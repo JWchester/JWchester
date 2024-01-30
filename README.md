@@ -51,6 +51,7 @@
  <img style = "margin = 10px" align = "left" alt = "VS Code" height = "85" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
  <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
+ <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "90" src = "https://github.com/JWchester/Icons/blob/main/Git.png" />
 
    
  </div>
