@@ -53,7 +53,7 @@
  <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
  <img style = "margin = 10px" align = "left" alt = "Git" height = "60" src = "https://github.com/JWchester/Icons/blob/main/GitT.png" />
-<img style = "margin = 10px" align = "left" alt = "N8N" height = "45" src="https://github.com/JWchester/Icons/blob/main/N8N.png" />
+<img style = "margin = 10px" align = "left" alt = "N8N" height = "55" src="https://github.com/JWchester/Icons/blob/main/N8N.png" />
 
    
  </div>
