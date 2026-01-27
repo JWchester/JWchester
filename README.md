@@ -45,19 +45,19 @@
  
 
  <div align = "left">
- <img style = "margin = 20px" align = "left" alt = "GNS3" height = "70" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
- <img style = "margin = 10px" align = "left" alt = "Linux Ubuntu" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
- <img style = "margin = 10px" align = "left" alt = "Kali Linux" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
- <img style = "margin = 10px" align = "left" alt = "Jupyter Notebooks" height = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
- <img style = "margin = 10px" align = "left" alt = "VS Code" height = "70" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
- <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "75" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
- <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "75" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
- <img style = "margin = 10px" align = "left" alt = "Git" height = "70" src = "https://github.com/JWchester/Icons/blob/main/GitT.png" />
+ <img style = "margin = 20px" align = "left" alt = "GNS3" height = "50" src = "https://github.com/JWchester/Icons/blob/main/GNS3.png" />
+ <img style = "margin = 10px" align = "left" alt = "Linux Ubuntu" height = "55" src = "https://github.com/JWchester/Icons/blob/main/Linux%20Ubuntu.png" />
+ <img style = "margin = 10px" align = "left" alt = "Kali Linux" height = "55" src = "https://github.com/JWchester/Icons/blob/main/Kali%20Linux.png" />
+ <img style = "margin = 10px" align = "left" alt = "Jupyter Notebooks" height = "65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+ <img style = "margin = 10px" align = "left" alt = "VS Code" height = "60" src = "https://github.com/JWchester/Icons/blob/main/VS%20Code.png" />
+ <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
+ <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "65" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
+ <img style = "margin = 10px" align = "left" alt = "Git" height = "60" src = "https://github.com/JWchester/Icons/blob/main/GitT.png" />
 <img src="https://github.com/JWchester/Icons/blob/main/N8N.png" 
      alt="N8N" 
      height="48" 
      align="left" 
-     style="margin-right: 20 px; vertical-align: -459 px;" />
+     style="margin-right: 10 px; vertical-align: -459 px;" />
 
    
  </div>
