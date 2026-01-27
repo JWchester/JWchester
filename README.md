@@ -30,7 +30,8 @@
 <img style = "margin = 10px" align = "left" alt = "HTML5" height = 70 <img src="https://github.com/JWchester/Icons/blob/main/HTML5.png"/>
 <img style = "margin = 10px" align = "left" alt = "CSS3" width="77" height="70" <img src="https://github.com/JWchester/Icons/blob/main/CSS3.png"/>
 <img style = "margin-right = 100px" align = "left" alt = "Bash" height = 60 <img src="https://github.com/JWchester/Icons/blob/main/Bash.png"/>
-<img style = "margin-right = 100px" align = "left" alt = "System Verilog" height = 75 <img src="https://github.com/JWchester/Icons/blob/main/System%20Verilog.png"/>
+<img style = "margin-right = 100px" align = "left" alt = "System Verilog" height = 75 <img src="https://github.com/JWchester/Icons/blob/main/System%20Verilog.png"/>  
+
 </div>
 <br>
 <br>
@@ -52,6 +53,11 @@
  <img style = "margin = 10px" align = "left" alt = "Google Colab" height = "85" src = "https://github.com/JWchester/Icons/blob/main/Google%20Colab.png" />
  <img style = "margin = 10px" align = "left" alt = "Quartus Prime" height = "85" src = "https://github.com/JWchester/Icons/blob/main/Quartus%20Prime.png" />
  <img style = "margin = 10px" align = "left" alt = "Git" height = "80" src = "https://github.com/JWchester/Icons/blob/main/GitT.png" />
+<img src="https://github.com/JWchester/Icons/blob/main/N8N.png" 
+     alt="N8N" 
+     height="48" 
+     align="left" 
+     style="margin-right: 30 px; vertical-align: -459 px;" />
 
    
  </div>
